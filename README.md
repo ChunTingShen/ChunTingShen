@@ -12,7 +12,7 @@ Before entering NYU, my previous jobs/projects involves:
   <li> Provide data analysis and visualization on the distribution of global venture capital using R (ggplot2) and Python (pandas)
 </ul>
 
-I am currently working on projects of NYU Stern course: Data Science in Business (Technical) by Prof. Roger Stein 
+This semester I am working on projects of NYU Stern course: Data Science in Business (Technical) by Prof. Roger Stein 
 - 📫 How to reach me: cs6395@nyu.edu
 
 <!---
