@@ -1,8 +1,11 @@
 Hi, welcome to my github!
 
-Here records my previous works in Data Science and Machine Learning, especially solving business problems with programming tools. I am also very interested in software development (btw I'm also qualified for NYU CS degree requirements!) and data visualization. 
+I am currently a Master's student in Information Systems at New York University.
 
-I’m currently a Master's student in Information Systems at NYU.
+Here records my previous works in Data Science and Machine Learning, especially solving business problems with programming tools. 
+
+I am interested in software development, data Science, and data visualization. 
+
 Before entering NYU, my previous jobs/projects involves:
 
 <ul>
