@@ -4,7 +4,7 @@ I am currently a Master's student in Information Systems at New York University.
 
 Here records my previous works in Data Science and Machine Learning, especially solving business problems with programming tools. 
 
-I am interested in software development, data Science, and data visualization. 
+I am interested in Software Development, Data Science, and Data Visualization. 
 
 Before entering NYU, my previous jobs/projects involves:
 
